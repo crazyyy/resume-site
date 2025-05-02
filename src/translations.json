@@ -1,0 +1,22 @@
+{
+  "ua": {
+    "title": "Віталій Антонюк",
+    "subtitle": "Full-Stack Web Developer | PHP, Node.js, React",
+    "aboutTitle": "Про мене",
+    "about": "Досвідчений Full-Stack Web Developer з понад 15 роками у галузі веброзробки. Спеціалізуюсь на створенні адаптивних, продуктивних вебрішень з використанням PHP, Node.js, React. Добре знаюся на SEO-оптимізації — як внутрішній, так і зовнішній.",
+    "experience": "Досвід роботи",
+    "skills": "Технічні навички",
+    "certs": "Сертифікати",
+    "portfolio": "Портфоліо"
+  },
+  "en": {
+    "title": "Vitalii Antoniuk",
+    "subtitle": "Full-Stack Web Developer | PHP, Node.js, React",
+    "aboutTitle": "About Me",
+    "about": "Experienced Full-Stack Web Developer with over 15 years in web development. Specializing in creating responsive, high-performance web solutions using PHP, Node.js, and React. Proficient in both on-page and off-page SEO optimization.",
+    "experience": "Work Experience",
+    "skills": "Technical Skills",
+    "certs": "Certificates",
+    "portfolio": "Portfolio"
+  }
+}
